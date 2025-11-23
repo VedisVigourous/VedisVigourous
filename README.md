@@ -14,6 +14,7 @@
 <a href="LINK_TO_YOUR_CERTIFICATE">
   <img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
+
 ---
 
 ### 💻 Tech Stack
