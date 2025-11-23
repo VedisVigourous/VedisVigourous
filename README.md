@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
-<br/><br/>
+<hr/><br/>
 
 ### 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,html,css" />
