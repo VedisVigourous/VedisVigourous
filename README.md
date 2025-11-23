@@ -33,6 +33,7 @@
 * 🎬 **Visuals:** I edit technical tutorials and demos.
 
 <br/>
+---
 
 <div align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
