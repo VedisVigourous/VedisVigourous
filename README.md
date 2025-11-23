@@ -1,4 +1,4 @@
-# Terminal Session: [YOUR_NAME]
+# Terminal Session: [VedisVigourous]
 
 ```text
       _                    _   _ _ _ 
