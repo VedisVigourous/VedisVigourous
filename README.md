@@ -32,7 +32,6 @@
 * 🤖 **AI:** Integrating **GenAI models** (Oracle Certified).
 * 🎬 **Visuals:** I edit technical tutorials and demos.
 
-<br/>
 ---
 
 <div align="left">
