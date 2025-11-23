@@ -14,18 +14,17 @@
 <a href="LINK_TO_YOUR_CERTIFICATE">
   <img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
-
-<hr/><br/>
+---
 
 ### 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,html,css" />
 
-<br/><br/>
+---
 
 ### 🎨 Creative Studio
 <img src="https://skillicons.dev/icons?i=pr,ae,ps,figma" />
 
-<br/><br/>
+---
 
 ### 🚀 About Me
 * ☕ **Backend:** specialized in **Java/Spring Boot** and Microservices.
