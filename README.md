@@ -18,8 +18,9 @@
 
 ---
 
-### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp" />
+### 💻 Tech Stack and Tools
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c" />
+<img src="https://skillicons.dev/icons?i=git,github,intellij,vscode" />
 
 ---
 
