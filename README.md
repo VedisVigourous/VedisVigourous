@@ -74,6 +74,19 @@
 
 ---
 
+<br/>
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+  <a href="https://github.com/VedisVigourous/LearnJava">
+    <img src="https://socialify.git.ci/VedisVigourous/LearnJava/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="LearnJava" />
+  </a>
+</td>
+  </tr>
+</table>
+
 <div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
 <br/>
