@@ -1,12 +1,8 @@
 # Terminal Session: VedisVigourous
 
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F8D030&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;Java+%26+C%2B%2B+Programmer;Oracle+GenAI+Certified;Creative+Video+Editor" alt="Typing SVG" />
 </div>
-
----
 
 ```text
   _   _      _ _          ____ _ _   _   _       _        _ 
