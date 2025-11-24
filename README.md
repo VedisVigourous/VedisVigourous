@@ -27,10 +27,33 @@
 </a>
 
 ---
+<!--
 
 ### 💻 Tech Stack and Tools
 <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c" />
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+-->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Tech Stack</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css&perline=3" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Mission Control</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,8 +69,6 @@
 * 🎬 **Visuals:** I edit technical tutorials and demos.
 
 ---
-
-<br/>
 
 ### 📊 Mission Control
 <div align="center">
