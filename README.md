@@ -11,7 +11,7 @@
 
 > **Current Status:** Oracle AI Certified & Backend Engineer
 
-<a href="LINK_TO_YOUR_CERTIFICATE">
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38">
   <img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
