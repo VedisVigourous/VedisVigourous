@@ -33,7 +33,8 @@
 <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c" />
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 -->
-<div aling="center">
+
+<div align="center">
   
 <table>
   <tr>
