@@ -9,6 +9,10 @@
 ```
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F8D030&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;Java+%26+C%2B%2B+Programmer;Oracle+GenAI+Certified;Creative+Video+Editor" alt="Typing SVG" />
+</div>
+
 > **Current Status:** Oracle AI Certified & Backend Engineer
 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38">
