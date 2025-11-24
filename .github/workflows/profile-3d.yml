@@ -1,9 +1,13 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+# 👇 THIS IS THE FIX: We explicitly demand write access here
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,10 +19,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          # The '|| exit 0' part stops the error if there is nothing new to save
+          git commit -m "generated" || exit 0
           git push
