@@ -37,6 +37,7 @@
 
 ---
 
+<!--
 <div align="left">
   <a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
@@ -46,5 +47,17 @@
   </a>
   <a href="https://instagram.com/https://www.instagram.com/vedant_chauhaan/">
   <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+-->
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
