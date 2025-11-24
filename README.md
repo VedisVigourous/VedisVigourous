@@ -85,7 +85,12 @@
   <a href="https://github.com/VedisVigourous/LearnJava">
     <img src="https://socialify.git.ci/VedisVigourous/LearnJava/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="LearnJava" />
   </a>
-</td>
+  </td>
+  <td width="50%">
+      <a href="https://github.com/VedisVigourous/College_cpp">
+        <img src="https://socialify.git.ci/VedisVigourous/College_cpp/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="College_cpp" />
+      </a>
+    </td>
   </tr>
 </table>
 
