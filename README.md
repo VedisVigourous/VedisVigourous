@@ -92,6 +92,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/VedisVigourous/HTML_CSS_Projects">
+        <img src="https://socialify.git.ci/VedisVigourous/HTML_CSS_Projects/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="HTML_CSS_Projects" />
+      </a>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <h3>🚧 Work in Progress 🚧</h3>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>
