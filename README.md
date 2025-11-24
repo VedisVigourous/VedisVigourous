@@ -80,7 +80,7 @@
 
 <h3 align="center">🧱 My Code Architecture</h3>
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
 </div>
 
 <br/>
