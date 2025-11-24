@@ -52,12 +52,15 @@
 -->
 <div align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=social&logo=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  &nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
+
