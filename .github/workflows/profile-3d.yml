@@ -5,7 +5,6 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-# 👇 THIS IS THE FIX: We explicitly demand write access here
 permissions:
   contents: write
 
