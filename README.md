@@ -34,6 +34,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 -->
 <div aling="center">
+  
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -54,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
