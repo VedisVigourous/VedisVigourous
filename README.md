@@ -38,11 +38,13 @@
 ---
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:codegrounds666@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/vedant_chauhaan/">
+  <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
