@@ -19,12 +19,12 @@
 ---
 
 ### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,c++" />
 
 ---
 
 ### 🎨 Creative Studio
-<img src="https://skillicons.dev/icons?i=pr,ae,ps,figma" />
+<img src="https://skillicons.dev/icons?i=pr,ps,filmora" />
 
 ---
 
