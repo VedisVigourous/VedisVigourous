@@ -33,13 +33,13 @@
 <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c" />
 <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 -->
-
+<div aling="center">
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💻 Tech Stack</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css&perline=3" />
+        <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c&perline=4" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
       </div>
@@ -54,6 +54,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -70,13 +71,4 @@
 
 ---
 
-### 📊 Mission Control
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="left"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
