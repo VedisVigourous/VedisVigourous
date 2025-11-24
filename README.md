@@ -30,9 +30,10 @@
 ---
 
 ### 🚀 About Me
-* ☕ **Backend:** specialized in **Java & C++** and Microservices.
+* 🧠 **Core Logic:** Mastering **DSA** & **OOPs** in **Java** & **C++**.
 * 🤖 **AI:** Integrating **GenAI models** (Oracle Certified).
-* 🎬 **Visuals:** I edit technical tutorials and demos competed within Competitions.
+* 🐍 **Python:** Scripting & Automation.
+* 🎬 **Visuals:** I edit technical tutorials and demos.
 
 ---
 
