@@ -40,9 +40,9 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Top Languages</h3>
+      <h3 align="center">📊 Code Analysis</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="100%" />
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" />
       </div>
     </td>
   </tr>
