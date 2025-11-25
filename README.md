@@ -49,9 +49,9 @@
     <td width="50%" valign="top">
       <h3 align="center">📊 Mission Control</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true" />
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/profile-summary-card-output/2077/profile-details.svg" width="100%" />
+        <br/><br/>
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/profile-summary-card-output/2077/productive-time.svg" width="100%" />
       </div>
     </td>
   </tr>
