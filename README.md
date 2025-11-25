@@ -40,14 +40,6 @@
       </div>
     </td>
     <td width="70%" valign="top">
-      <h3 align="center">📊 Mission Control</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">📈 Activity Signal</h3>
       <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedisVigourous&theme=react-dark&hide_border=true&area=true" width="100%" />
