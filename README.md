@@ -39,12 +39,12 @@
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
       </div>
     </td>
-    <td width="70%" valign="top">
-      <h3 align="center">📈 Activity Signal</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Mission Control</h3>
       <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedisVigourous&theme=react-dark&hide_border=true&area=true" width="100%" />
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/refs/heads/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
         <br/>
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/refs/heads/main/profile-summary-card-output/default/2-most-commit-language.svg" width="100%"/>
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/refs/heads/main/profile-summary-card-output/default/2-most-commit-language.svg" width="100%" />
       </div>
     </td>
   </tr>
