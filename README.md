@@ -38,7 +38,7 @@
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
       <h3 align="center">📊 Mission Control</h3>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" />
@@ -65,7 +65,7 @@
 
 ---
 
-<div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
 <br/>
 <h3 align="center">🚀 Featured Projects</h3>
