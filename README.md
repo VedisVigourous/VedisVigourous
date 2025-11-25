@@ -42,9 +42,9 @@
     <td width="50%" valign="top">
       <h3 align="center">📊 Mission Control</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/refs/heads/main/profile-summary-card-output/2077/0-profile-details.svg" width="50%" />
-        <br/>
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/refs/heads/main/profile-summary-card-output/2077/2-most-commit-language.svg" width="40%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" />
+        <br/>      
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
       </div>
     </td>
   </tr>
