@@ -27,13 +27,8 @@
 </a>
 
 ---
+
 <!--
-
-### 💻 Tech Stack and Tools
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c" />
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
--->
-
 <div align="center">
   
 <table>
@@ -58,6 +53,18 @@
 </table>
 
 </div>
+-->
+
+<br/>
+
+<h3 align="center">💻 My Technical Arsenal</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,bash,idea,vscode,git,github&perline=6" />
+</div>
+
+<br/>
 
 ---
 
