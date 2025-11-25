@@ -40,11 +40,9 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Mission Control</h3>
+      <h3 align="center">📊 Top Languages</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" />
-        <br/>      
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="100%" />
       </div>
     </td>
   </tr>
