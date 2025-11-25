@@ -47,11 +47,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Mission Control</h3>
+      <h3 align="center">🔥 Mission Control</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/master/profile-summary-card-output/2077/profile-details.svg" width="100%" />
-        <br/><br/>
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/master/profile-summary-card-output/2077/productive-time.svg" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedisVigourous&theme=radical&hide_border=true" alt="GitHub Streak" /> 
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true" />
       </div>
     </td>
   </tr>
