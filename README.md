@@ -28,43 +28,24 @@
 
 ---
 
-<!--
-<div align="center">
-  
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💻 Tech Stack</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,js,bash&perline=4" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
+        <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c,bash,idea,vscode,git,github&perline=4" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔥 Mission Control</h3>
+      <h3 align="center">📊 Mission Control</h3>
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedisVigourous&theme=radical&hide_border=true" alt="GitHub Streak" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=VedisVigourous&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400" />
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
       </div>
     </td>
   </tr>
 </table>
-
-</div>
--->
-
-<br/>
-
-<h3 align="center">💻 My Technical Arsenal</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,html,css&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,bash,idea,vscode,git,github&perline=6" />
-</div>
-
-<br/>
 
 ---
 
