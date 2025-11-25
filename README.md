@@ -49,9 +49,9 @@
     <td width="50%" valign="top">
       <h3 align="center">📊 Mission Control</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/profile-summary-card-output/2077/profile-details.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/master/profile-summary-card-output/2077/profile-details.svg" width="100%" />
         <br/><br/>
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/profile-summary-card-output/2077/productive-time.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/master/profile-summary-card-output/2077/productive-time.svg" width="100%" />
       </div>
     </td>
   </tr>
