@@ -35,7 +35,7 @@
       <h3 align="center">💻 Tech Stack</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,c,bash&perline=4" />
-        <br/>
+        <br/><br/>
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
       </div>
     </td>
