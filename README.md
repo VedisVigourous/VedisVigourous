@@ -41,13 +41,10 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 Code Analysis</h3>
-      <!--
       <br/><br/>
       <div align="center">
         <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" />
       </div>
-      -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedisVigourous&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="175" />
     </td>
   </tr>
 </table>
