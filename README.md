@@ -49,7 +49,7 @@
       <hr/>
        <h3 align="center">📙 Credly: </h3>
       <div align="center">
-        <a href="https://www.credly.com/users/https://www.credly.com/users/vadanta-kumar-chauhaan/badges#credly">
+        <a href="https://www.credly.com/users/vadanta-kumar-chauhaan/badges#credly">
         <img src="https://img.shields.io/badge/Verify_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
       </a>
         <!--
