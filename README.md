@@ -41,12 +41,16 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎨 Creative Studion</h3>
-      <br/><br/>
       <div align="center">
         <!--
         <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" /> -->
     <img src="https://skillicons.dev/icons?i=pr,ps" />
     </div>
+      <hr/>
+       <h3 align="center">🛜 Connect to Me</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Credly-Verify_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+      </div>
     </td>
   </tr>
 </table>
