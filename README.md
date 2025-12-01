@@ -49,7 +49,20 @@
       <hr/>
        <h3 align="center">🛜 Connect to Me</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Credly-Verify_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+        <a href="https://www.credly.com/users/https://www.credly.com/users/vadanta-kumar-chauhaan">
+        <img src="https://img.shields.io/badge/Verify_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+      </a>
+        <br/>
+        <a href="https://www.linkedin.com/in/vadanta-kumar-chauhaan-736581375">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+      </a>
+      &nbsp; <a href="https://instagram.com/vedant_chauhaan">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+      </a>
+      &nbsp;
+      <a href="mailto:codegrounds666@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+      </a>
       </div>
     </td>
   </tr>
