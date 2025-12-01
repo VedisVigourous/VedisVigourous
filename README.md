@@ -53,16 +53,8 @@
         <img src="https://img.shields.io/badge/Verify_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
       </a>
         <br/>
-        <a href="https://www.linkedin.com/in/vadanta-kumar-chauhaan-736581375">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-      </a>
-      &nbsp; <a href="https://instagram.com/vedant_chauhaan">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-      </a>
-      &nbsp;
-      <a href="mailto:codegrounds666@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />
-      </a>
+        <a href="https://www.linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://skillicons.dev/icons?i=linkedin" />
+      </a>&nbsp; <a href="https://instagram.com/vedant_chauhaan"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;<a href="mailto:codegrounds666@gmail.com"><img https://skillicons.dev/icons?i=gmail" /></a>
       </div>
     </td>
   </tr>
