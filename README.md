@@ -41,10 +41,13 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 Code Analysis</h3>
+      <!--
       <br/><br/>
       <div align="center">
         <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" />
       </div>
+      -->
+      ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=VedisVigourous&theme=github_dark)
     </td>
   </tr>
 </table>
