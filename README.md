@@ -44,9 +44,6 @@
       <br/><br/>
       <div align="center">
         <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" />
-        ### 🥧 Language Composition Pie Chart
-
-![GitHub Language Pie](./stats.svg)
     </div>
     </td>
   </tr>
