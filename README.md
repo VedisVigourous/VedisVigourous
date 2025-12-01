@@ -31,7 +31,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="80%" valign="top">
+    <td width="50%" valign="top" padding="15px">
       <h3 align="center">💻 Tech Stack</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,js,bash&perline=4" />
@@ -39,7 +39,7 @@
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
       </div>
     </td>
-    <td width="80%" valign="top">
+    <td width="50%" valign="top padding="15px">
       <h3 align="center">🎨 Creative Studion</h3>
       <div align="center">
         <!--
