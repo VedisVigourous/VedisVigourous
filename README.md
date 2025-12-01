@@ -44,6 +44,7 @@
       <br/><br/>
       <div align="center">
         <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" />
+        ![Language Pie](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=vedisjourno&theme=github_dark)
     </div>
     </td>
   </tr>
