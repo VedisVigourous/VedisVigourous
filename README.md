@@ -31,7 +31,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="80%" valign="top">
       <h3 align="center">💻 Tech Stack</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,js,bash&perline=4" />
@@ -39,7 +39,7 @@
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="80%" valign="top">
       <h3 align="center">🎨 Creative Studion</h3>
       <div align="center">
         <!--
@@ -52,7 +52,7 @@
         <a href="https://www.credly.com/users/https://www.credly.com/users/vadanta-kumar-chauhaan">
         <img src="https://img.shields.io/badge/Verify_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
       </a>
-        <br/>
+        <br/><br/>
         <a href="https://www.linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
         <a href="https://instagram.com/vedant_chauhaan">
           <img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
