@@ -40,20 +40,17 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Code Analysis</h3>
+      <h3 align="center">🎨 Creative Studion</h3>
       <br/><br/>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" />
+        <!--
+        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" /> -->
+    <img src="https://skillicons.dev/icons?i=pr,ps" />
     </div>
     </td>
   </tr>
 </table>
 </div> 
-
----
-
-### 🎨 Creative Studio
-<img src="https://skillicons.dev/icons?i=pr,ps" />
 
 ---
 
