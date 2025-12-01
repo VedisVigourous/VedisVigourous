@@ -48,6 +48,9 @@
       </div>
       -->
       ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=VedisVigourous&theme=github_dark)
+      ### 🔥 Contribution Graph
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vedisjourno&theme=react-dark)
     </td>
   </tr>
 </table>
