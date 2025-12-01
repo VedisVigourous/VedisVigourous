@@ -47,11 +47,12 @@
     <img src="https://skillicons.dev/icons?i=pr,ps" />
     </div>
       <hr/>
-       <h3 align="center">🛜 Connect to Me</h3>
+       <h3 align="center">📙 Credly: </h3>
       <div align="center">
         <a href="https://www.credly.com/users/https://www.credly.com/users/vadanta-kumar-chauhaan">
         <img src="https://img.shields.io/badge/Verify_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
       </a>
+        <!--
         <br/><br/>
         <a href="https://www.linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
         <a href="https://instagram.com/vedant_chauhaan">
@@ -59,6 +60,7 @@
         <a href="mailto:codegrounds666@gmail.com">
           <img src="https://skillicons.dev/icons?i=gmail" />
         </a>
+        -->
       </div>
     </td>
   </tr>
@@ -74,6 +76,8 @@
 * 🎬 **Visuals:** I edit technical tutorials and demos.
 
 ---
+
+<h3 align="center">🛜 Connect to Me !</h3>
 
 <div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
