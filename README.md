@@ -104,10 +104,10 @@
       </a>
     </td>
     <td width="50%">
-    <a href="https://github.com/VedisVigourous/vedisvigourous.github.io">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedisVigourous&repo=vedisvigourous.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </a>
-  </td>
+  <a href="https://github.com/VedisVigourous/vedisvigourous.github.io">
+    <img src="https://socialify.git.ci/VedisVigourous/vedisvigourous.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="My Live Portfolio" width="100%" />
+  </a>
+</td>
   </tr>
 </table>
 
