@@ -104,10 +104,10 @@
       </a>
     </td>
     <td width="50%">
-      <div align="center">
-        <h3>🚧 Work in Progress 🚧</h3>
-      </div>
-    </td>
+    <a href="https://github.com/VedisVigourous/vedisvigourous.github.io">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedisVigourous&repo=vedisvigourous.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+  </td>
   </tr>
 </table>
 
