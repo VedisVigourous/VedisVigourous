@@ -80,6 +80,10 @@
 <h3 align="center">🛜 Connect to Me !</h3>
 
 <div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=VedisVigourous&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <br/>
 <h3 align="center">🚀 Featured Projects</h3>
@@ -108,12 +112,6 @@
     <img src="https://socialify.git.ci/VedisVigourous/vedisvigourous.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="My Live Portfolio" width="100%" />
   </a>
 </td>
-  </tr>
-  <tr>
-    <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=VedisVigourous&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-</div>
   </tr>
 </table>
 
