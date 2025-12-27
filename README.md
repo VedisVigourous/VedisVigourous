@@ -121,3 +121,9 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
+---
+<br/>
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=VedisVigourous&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+</div>
