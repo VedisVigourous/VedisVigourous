@@ -19,14 +19,16 @@
 ```
 ---
 
-> **Current Status:** Oracle AI Certified & Backend Engineer
+> **Current Status:** Open Source Contributor | Cloud Architecture & GenAI Enthusiast | GSoC & GSSoC Aspirant
 
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38">
-  <img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
-  <!-- <img src="https://images.credly.com/size/160x160/images/b688105f-ceda-4db0-a890-6375d2235c07/OCI25AICFAV1_cached_image_20251117-31-2r8cb6.png" height="70px" width="70px"/> -->
-</a>
+<div align="center">
+  <a href="https://github.com/VedisVigourous/Resume/blob/main/Vadanta_Kumar_Chauhaan_Resume.pdf">
+    <img src="https://img.shields.io/badge/View_My_Resume-252526?style=for-the-badge&logo=latex&logoColor=white" alt="Resume Badge"/></a>&nbsp;&nbsp;<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38"><img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.credly.com/users/vadanta-kumar-chauhaan/badges#credly"><img src="https://img.shields.io/badge/Verify_My_Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+</div>
 
 ---
+
+
 
 <div align="center">
 <table>
@@ -34,34 +36,24 @@
     <td width="50%" valign="top" padding="15px">
       <h3 align="center">💻 Tech Stack</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,cpp,js,bash,mongodb,nodejs,react&perline=4" />
+        <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,bash,linux&perline=4" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=gcp,mysql,mongodb,react,nodejs&perline=4" />
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
       </div>
     </td>
-    <td width="50%" valign="top padding="15px">
-      <h3 align="center">🎨 Creative Studion</h3>
+    <td width="50%" valign="top" padding="15px">
+      <h3 align="center">🎨 Creative Studio</h3>
       <div align="center">
-        <!--
-        <img src="https://raw.githubusercontent.com/VedisVigourous/VedisVigourous/main/github-metrics.svg" width="100%" /> -->
-    <img src="https://skillicons.dev/icons?i=pr,ps" />
-    </div>
-      <hr/>
-       <h3 align="center">📙 Credly: </h3>
-      <div align="center">
-        <a href="https://www.credly.com/users/vadanta-kumar-chauhaan/badges#credly">
-        <img src="https://img.shields.io/badge/Verify_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-      </a>
-        <!--
-        <br/><br/>
-        <a href="https://www.linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
-        <a href="https://instagram.com/vedant_chauhaan">
-          <img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
-        <a href="mailto:codegrounds666@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" />
-        </a>
-        -->
+        <img src="https://skillicons.dev/icons?i=pr,ps,ae,figma&perline=2" />
       </div>
+      <hr/>
+       <h4 align="center">🏆 Creative Milestones</h4>
+      <ul>
+        <li><b>2nd Place:</b> Reel Mind Pictures (Expressions 2021)</li>
+        <li><b>Event Design:</b> Google Ambassador Freshers' Party</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -70,16 +62,40 @@
 ---
 
 ### 🚀 About Me
-* 🧠 **Core Logic:** Mastering **DSA** & **OOPs** in **Java** & **C++**.
-* 🤖 **AI:** Integrating **GenAI models** (Oracle Certified).
-* 🐍 **Python:** Scripting & Automation.
-* 🎬 **Visuals:** I edit technical tutorials and demos.
+* 🧠 **Core Logic:** Deep diving into **DSA** & **OOPs** optimization using **Java** & **C++**.
+* ☁️ **Backend & Cloud:** Architecting data pipelines (Python) and securing environments on **GCP**.
+* 🤖 **Applied AI:** Oracle Certified in the **GenAI** stack; leveraging Gemini APIs for custom accessibility tools and community events.
+* 🌐 **Building:** Developing custom browser extensions (like **Spiker**) and actively prepping for **GSoC & GSSoC**.
 
 ---
 
-<h3 align="center">🛜 Connect to Me !</h3>
+### 🏆 Featured Certifications & Achievements
+| Credential | Issuer | Verification |
+| :--- | :--- | :--- |
+| **Generative AI Professional** | Oracle | [Verify Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38) |
+| **Student Ambassador Program (Freshers' Party)** | Google | [View Certificate](./assets/google_cert.pdf) |
+| **Expressions 2021: Reel Mind Pictures (2nd Place)** | Expressions | [View Certificate](./assets/video_cert.pdf) |
 
-<div align="center"><a href="https://linkedin.com/in/vadanta-kumar-chauhaan-736581375"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:codegrounds666@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<details>
+  <summary><b>✨ View 10+ More Certifications (Click to Expand)</b></summary>
+  <br/>
+  
+  * **3-Star (Java) & 2-Star (Problem Solving)** - HackerRank ([View Profile](https://www.hackerrank.com/profile/codegrounds666))
+  * **Add Another Certificate Here** - Issuer ([View Certificate](Link))
+  * **Add Another Certificate Here** - Issuer ([View Certificate](Link))
+  * *(Keep listing your other certs here...)*
+  
+</details>
+
+---
+
+<h3 align="center">🛜 Connect with Me!</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vadanta"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/vedant_chauhaan/"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:vadanta592007@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=VedisVigourous&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
@@ -90,28 +106,28 @@
 
 <table align="center">
   <tr>
-  <td width="50%">
-  <a href="https://github.com/VedisVigourous/LearnJava">
-    <img src="https://socialify.git.ci/VedisVigourous/LearnJava/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="LearnJava" />
-  </a>
-  </td>
-  <td width="50%">
-      <a href="https://github.com/VedisVigourous/College_cpp">
-        <img src="https://socialify.git.ci/VedisVigourous/College_cpp/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="College_cpp" />
+    <td width="50%">
+      <a href="https://github.com/hobo7676/hackdays-spiker">
+        <img src="https://socialify.git.ci/hobo7676/hackdays-spiker/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="Spiker Extension" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/VedisVigourous/Police-Daily-Performa">
+        <img src="https://socialify.git.ci/VedisVigourous/Police-Daily-Performa/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="Police Daily Performa" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/VedisVigourous/HTML_CSS_Projects">
-        <img src="https://socialify.git.ci/VedisVigourous/HTML_CSS_Projects/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="HTML_CSS_Projects" />
+      <a href="https://github.com/VedisVigourous/Code-Solutions">
+        <img src="https://socialify.git.ci/VedisVigourous/Code-Solutions/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="100%" alt="Code Solutions" />
       </a>
     </td>
     <td width="50%">
-  <a href="https://github.com/VedisVigourous/vedisvigourous.github.io">
-    <img src="https://socialify.git.ci/VedisVigourous/vedisvigourous.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="My Live Portfolio" width="100%" />
-  </a>
-</td>
+      <a href="https://github.com/VedisVigourous/vedisvigourous.github.io">
+        <img src="https://socialify.git.ci/VedisVigourous/vedisvigourous.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="My Live Portfolio" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
