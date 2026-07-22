@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=IInd Yr CS+Undergrad;Java+%26+C%2B%2B+Developer;Cloud+%26+GenAI+Implementer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+Undergrad+@+ABES;Java+%26+C%2B%2B+Developer;Cloud+%26+GenAI+Implementer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
