@@ -73,17 +73,25 @@
 | Credential | Issuer | Verification |
 | :--- | :--- | :--- |
 | **Generative AI Professional** | Oracle | [Verify Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38) |
-| **Student Ambassador Program (Freshers' Party)** | Google | [View Certificate](./assets/google_cert.pdf) |
-| **Expressions 2021: Reel Mind Pictures (2nd Place)** | Expressions | [View Certificate](./assets/video_cert.pdf) |
+| **Technology Job Simulation** | Deloitte | [View Certificate](Link) |
+| **Hackdays Hackathon** | Hackdays | [View Certificate](Link) |
+| **Student Ambassador Program (Freshers' Party)** | Google | [View Certificate](Link) |
 
 <details>
   <summary><b>✨ View 10+ More Certifications (Click to Expand)</b></summary>
   <br/>
   
-  * **3-Star (Java) & 2-Star (Problem Solving)** - HackerRank ([View Profile](https://www.hackerrank.com/profile/codegrounds666))
-  * **Add Another Certificate Here** - Issuer ([View Certificate](Link))
-  * **Add Another Certificate Here** - Issuer ([View Certificate](Link))
-  * *(Keep listing your other certs here...)*
+  **🤖 AI & Modern Developer Workflows**
+  * **GitHub Copilot Quests:** Prompt Engineering, Copilot Integration, Magic Quest, & Code Smarter - *Wilco*
+  
+  **💻 Core Technical & Problem Solving**
+  * **Basic Problem Solving & JavaScript** - *HackerRank*
+  * **Legacy Responsive Web Design** - *freeCodeCamp*
+  * **Course Completions:** ReactJS, HTML, & CSS
+  
+  **🎨 Competitions & Community**
+  * **Expressions 2021: Reel Mind Pictures (2nd Place)** - *Expressions*
+  * **Participation & Coding Events:** CodeWizard & COC 4.0
   
 </details>
 
