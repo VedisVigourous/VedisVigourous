@@ -72,26 +72,26 @@
 ### 🏆 Featured Certifications & Achievements
 | Credential | Issuer | Verification |
 | :--- | :--- | :--- |
-| **Generative AI Professional** | Oracle | [Verify Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2EC9B50AAE0E57C91B9A0D7C3E27276E32A1D2760D8FB299F208125ADC931D38) |
-| **Technology Job Simulation** | Deloitte | [View Certificate](Link) |
-| **Hackdays Hackathon** | Hackdays | [View Certificate](Link) |
-| **Student Ambassador Program (Freshers' Party)** | Google | [View Certificate](Link) |
+| **Generative AI Professional** | Oracle | [View Certificate](./milestones/Oracle_GenAI.pdf) |
+| **Technology Job Simulation** | Deloitte | [View Certificate](./milestones/Deloitte_TechnologyJobSimulation.pdf) |
+| **Hackdays Hackathon** | Hackdays | [View Certificate](./milestones/Hackathon_01_Hackdays.pdf) |
+| **Student Ambassador Program (Freshers' Party)** | Google | [View Certificate](./milestones/Google_StudentAmbassador.pdf) |
 
 <details>
   <summary><b>✨ View 10+ More Certifications (Click to Expand)</b></summary>
   <br/>
   
-  **🤖 AI & Modern Developer Workflows**
-  * **GitHub Copilot Quests:** Prompt Engineering, Copilot Integration, Magic Quest, & Code Smarter - *Wilco*
+  **🤖 AI & Modern Developer Workflows (Wilco)**
+  * **GitHub Copilot Quests:** [Prompt Engineering](./milestones/WilcoLabs/prompt_engineering.png) | [Copilot Integration](./milestones/WilcoLabs/copilot_integration.png) | [Magic Quest](./milestones/WilcoLabs/magic_quest.png) | [Code Smarter](./milestones/WilcoLabs/code-smarter.png)
   
   **💻 Core Technical & Problem Solving**
-  * **Basic Problem Solving & JavaScript** - *HackerRank*
-  * **Legacy Responsive Web Design** - *freeCodeCamp*
-  * **Course Completions:** ReactJS, HTML, & CSS
+  * **HackerRank:** [Basic Problem Solving](./milestones/HackerRank_PS_Basic.pdf) & [JavaScript Basic](./milestones/HackerRank_Js_Basic.pdf)
+  * **freeCodeCamp:** [Legacy Responsive Web Design](./milestones/FreeCodeCamp_WebDesignV8.pdf)
   
-  **🎨 Competitions & Community**
-  * **Expressions 2021: Reel Mind Pictures (2nd Place)** - *Expressions*
-  * **Participation & Coding Events:** CodeWizard & COC 4.0
+  **🎨 Competitions, Hackathons & Community**
+  * **CodeChef:** [Clash of Coders](./milestones/Codechef_ClashOfCoders.jpg)
+  * **IIT Roorkee E-Cell:** [Participation Certificate](./milestones/IITRoorkie_Ecell.png)
+  * **HackerRank Events:** [CodeWizard](./milestones/Hackerran_CodeWizard.png)
   
 </details>
 
