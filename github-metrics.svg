@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.07554096250743" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="270.07554096250743" y="0" width="182.6241745705573" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="452.6997155330647" y="0" width="6.245372841817371" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="458.9450883748821" y="0" width="1.0549116251179185" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.89233954451345" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="218.89233954451345" y="0" width="148.0181431840471" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="366.91048272856057" y="0" width="88.03176419309143" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.942246921652" y="0" width="5.057753078348044" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -41,15 +41,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TeX
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Python
+                        TeX
                     </div>
                 </div>
             </section>
